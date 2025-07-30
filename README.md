@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PingoPP
-- 👀 I’m interested in future
-- 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate in MOJANG
+- 👀 I’m interested in past, present and future 
+- 🌱 I’m currently learning programming and QGIS
+- 💞️ I’m looking to collaborate in ESA or ESRI
 - 📫 How to reach me here
 
 <!---
